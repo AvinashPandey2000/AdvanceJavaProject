@@ -1,0 +1,10 @@
+.primary-background{
+    background: linear-gradient(to right, blue , darkblue ,green ,red ,black );
+}
+.background-color{
+    background: linear-gradient(to right, #ce93d8 ,#81c784  ,#ef5350,black );
+}
+.banner-background{
+    background: linear-gradient(to right, #ce93d8 ,#81c784  ,#ef5350,black );
+    
+}
